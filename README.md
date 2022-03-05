@@ -1,4 +1,4 @@
-# A-Search
+# A*Search
 ## Windy 8-Puzzle Problem
 <img width="100" alt="image" src="https://user-images.githubusercontent.com/79284398/156876124-b0f3f916-c792-4e65-a8ee-da3d3a2729ee.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img width="100" alt="image" src="https://user-images.githubusercontent.com/79284398/156876186-480ddd03-c92f-4727-a878-c103da629d32.png"><br>
 ### Movement Cost With South Wind
